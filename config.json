@@ -1,0 +1,48 @@
+{
+    "dayweek" : 5,
+    "percentage" : 30,
+    "names" : [
+        {
+        "name" : "Andrea Tosco"
+        },
+        {
+        "name" : "Rosa Arnò"
+        },
+        {
+        "name" : "Riccardo Iennaco"
+        },
+        {
+        "name" : "Simone Caporale"
+        },
+        {
+        "name" : "Matteo Vaccari"
+        },
+        {
+        "name" : "Neda Shirvani"
+        },
+        {
+        "name" : "Sandy Andolina"
+        },
+        {
+        "name" : "Omar Belhadj"
+        },
+        {
+        "name" : "Emanuele Lia"
+        },
+        {
+        "name" : "Giulia Ingrami Bianchini"
+        },
+        {
+        "name" : "Milosz Galazka"
+        },
+        {
+        "name" : "Jacopo Losi"
+        },
+        {
+        "name" : "Lucia Francavilla"
+        },
+        {
+        "name" : "Riccardo Antonio Bertone"
+        }
+    ]
+}
